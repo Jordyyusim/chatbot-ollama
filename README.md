@@ -66,8 +66,8 @@ pip install -r requirements.txt
 
 ## Screenshots
 
-![1](chatbot-ollama/screenshots/Keunggulan.png)
-![2](chatbot-ollama/screenshots/StatusPesanan.png)
-![3](chatbot-ollama/screenshots/StatusPesananProduk1.png)
-![4](chatbot-ollama/screenshots/StatusPesananProduk2.png)
-![5](chatbot-ollama/screenshots/CaraKlaim.png)
+![1](screenshots/Keunggulan.png)
+![2](screenshots/StatusPesanan.png)
+![3](screenshots/StatusPesananProduk1.png)
+![4](screenshots/StatusPesananProduk2.png)
+![5](screenshots/CaraKlaim.png)
